@@ -37,7 +37,7 @@ Please make sure to update tests as appropriate.
 - [x] Output the state of accounts
 - [x] Implement meaningful error handling
 - [x] Add integration tests
-- [ ] Add CI
+- [x] Add CI
 - [ ] Implement test data generator
 
 ## License
